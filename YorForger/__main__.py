@@ -90,15 +90,20 @@ START_MSG = "I'm Working Out!\n<b>Haven't stopped since:</b> <code>{}</code>"
 START_IMG = "https://telegra.ph/file/af0931a6fa8ec665caa65.jpg"
     
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/871f52a6198ade88a7f3b.mp4) 」────
-Konichiwa `{}`.
-*An Anime Based Bot Working Under* [【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork)
+────「 [【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork) 」────
+
+ᴋᴏɴɪᴄʜɪᴡᴀ `{}`.
+*ʙᴏᴋᴜ ɴᴏ ɴᴀᴍᴀɪ ᴡᴀ [ʏᴇʟᴀɴ](https://telegra.ph/file/44e80168688290d18b754.mp4) ᴅᴇꜱᴜ
+
+ɪ'ᴍ ɴɪɢʜᴛ ᴏʀᴄʜɪᴅ ᴀ ɢᴀᴍᴇ-ᴛʜᴇᴍᴇ ʙᴀꜱᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ʜᴇᴀᴅ ᴏꜰ ʏᴀɴꜱʜᴀɴ ᴛᴇᴀʜᴏᴜꜱᴇ ✨
 ┏━━━━━━━━━━━━━━━━━━━━
-× *Working since:* `{}`
-➖➖➖➖➖➖➖➖➖➖➖➖➖
-× `{}` *Teammates, Across* `{}` *Chat groups.*
+× *ᴘʟᴀʏɪɴɢ ꜱɪɴᴄᴇ:* `{}`
+× `{}` *ᴛᴇᴀᴍᴍᴀᴛᴇꜱ. ᴀᴄʀᴏꜱꜱ* `{}` *ɢʀᴏᴜᴘ ᴄʜᴀᴛꜱ.*
 ┗━━━━━━━━━━━━━━━━━━━━
-*Try The /help Button Below To Know My Abilities!*
+  
+  [ꜱᴜᴘᴘᴏʀᴛ](https://t.me/yelanxsupport) | [ᴜᴘᴅᴀᴛᴇꜱ](https://t.me/yelanxupdates)
+
+*ᴀᴛᴛᴀᴄᴋ /ʜᴇʟᴘ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪ ᴀᴍ ᴄᴀᴘᴀʙʟᴇ ᴏꜰ !*
 """
 
 GROUP_START_TEXT = """
