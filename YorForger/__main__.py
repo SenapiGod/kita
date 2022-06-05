@@ -94,7 +94,7 @@ PM_START_TEXT = """
 Konichiwa `{}`.
 *An Anime Based Bot Working Under* [【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork)
 ┏━━━━━━━━━━━━━━━━━━━━
-× *Working since:* `{}`
+× *Working since:* `{}` bleh
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 × `{}` *Teammates, Across* `{}` *Chat groups.*
 ┗━━━━━━━━━━━━━━━━━━━━
