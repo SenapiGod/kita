@@ -109,13 +109,13 @@ Haven't stopped since: {}
 buttons = [
     [
         InlineKeyboardButton(
-            text="Invite Me At Your Residence",url="http://t.me/kitaxrobot?startgroup=true"),
+            text="Invite Me At Your Residence",url="https://t.me/itachixobot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-            text="×Support×", url=f"https://t.me/kitaxsupport"),                    
+            text="×Support×", url=f"https://t.me/ItAchixoBot_Support"),                    
         InlineKeyboardButton(
-            text="×Updates×",  url=f"https://t.me/kitaxupdates"
+            text="×Updates×",  url=f"https://t.me/ItAchixoBot_Support"
         ),
     ],
     [
