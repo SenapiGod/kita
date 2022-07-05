@@ -84,10 +84,10 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-HELP_IMG = "https://telegra.ph/file/bee6f9297ff8d3e2ec1c7.jpg"
+HELP_IMG = "https://telegra.ph/file/7d797f1f006d5e30b7caf.mp4"
 HELP_MSG = "Click the button below to get help menu in your pm."
 START_MSG = "I'm Working Out!\n<b>Haven't stopped since:</b> <code>{}</code>"
-START_IMG = "https://telegra.ph/file/af0931a6fa8ec665caa65.jpg"
+START_IMG = "https://telegra.ph/file/7d797f1f006d5e30b7caf.mp4" 
     
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/81bf1a730f1f11593a281.mp4) 」────
@@ -256,7 +256,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
                 update.effective_message.reply_photo(
-            START_IMG, caption="Kita Working Since: <code>{}</code>".format(
+            START_IMG, caption="Itachi Working Since: <code>{}</code>".format(
                 uptime,
             ),
             parse_mode=ParseMode.HTML,
@@ -264,8 +264,8 @@ def start(update: Update, context: CallbackContext):
              reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ❤", url="https://t.me/kitaxsupport"),
-                  InlineKeyboardButton(text="🔰Uᴘᴅᴀᴛᴇs🔰", url="https://t.me/kitaxupdates")
+                  InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ❤", url="https://t.me/Fed999Wrld" ),
+                  InlineKeyboardButton(text="🔰Uᴘᴅᴀᴛᴇs🔰", url="https://t.me/ItAchixoBot_Support")
                   ]
                 ]
             ),
@@ -624,7 +624,7 @@ def donate(update: Update, context: CallbackContext):
     bot = context.bot
     update.effective_message.reply_text(
         "You can also donate to the person currently running me "
-        "[here](t.me/voidaryan)",
+        "[here](t.me/Invincible_itAchi)",
         parse_mode=ParseMode.MARKDOWN,
     )
 
@@ -656,8 +656,8 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.send_photo(
-                "@https://t.me/kitaxsupport",
-                "https://telegra.ph/file/af0931a6fa8ec665caa65.jpg",
+                "@https://t.me/Fed999Wrld",
+                "https://telegra.ph/file/7d797f1f006d5e30b7caf.mp4",
                 "I Am Ready To Compete!",
                 parse_mode=ParseMode.MARKDOWN,
             )
