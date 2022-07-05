@@ -90,9 +90,9 @@ START_MSG = "I'm Working Out!\n<b>Haven't stopped since:</b> <code>{}</code>"
 START_IMG = "https://telegra.ph/file/af0931a6fa8ec665caa65.jpg"
     
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/871f52a6198ade88a7f3b.mp4) 」────
+────「 [{}](https://telegra.ph/file/81bf1a730f1f11593a281.mp4) 」────
 Konichiwa `{}`.
-*An Anime Based Bot Working Under* [【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork)
+*An Anime Based Bot Working Under* [999 Gang 亗](https://t.me/Fed999Wrld)
 ┏━━━━━━━━━━━━━━━━━━━━
 × *Working since:* `{}`
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -128,7 +128,7 @@ buttons = [
 
                     
 HELP_STRINGS = """
-*Main* commands available [💫](https://telegra.ph/file/bee6f9297ff8d3e2ec1c7.jpg) :
+*Main* commands available [💫] :
  ➛ /help: PM's you this message.
  ➛ /help <module name>: PM's you info about that module.
  ➛ /settings:
