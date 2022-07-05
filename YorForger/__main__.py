@@ -128,7 +128,7 @@ buttons = [
 
                     
 HELP_STRINGS = """
-*Main* commands available [💫] :
+*Main* commands available [👾] :
  ➛ /help: PM's you this message.
  ➛ /help <module name>: PM's you info about that module.
  ➛ /settings:
