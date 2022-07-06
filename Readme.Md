@@ -40,5 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/SenpaiGod"> <img src="https://img.shields.io/badge/SenpaiGod-Github-magenta?style=for-the-badge&logo=github" alt="SenpaiGod Github" /> </a>
+    <a href="https://github.com/SOME1HING"> <img src="https://img.shields.io/badge/SOME1HING-Github-magenta?style=for-the-badge&logo=github" alt="SOME1HING Github" /> </a>
+    
 
 
