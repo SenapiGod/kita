@@ -258,10 +258,10 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
                         [
                             [
                                 InlineKeyboardButton(
-                                    text="☎️ Support", url="https://t.me/KitaxSupport"
+                                    text="☎️ Support", url="https://t.me/Fed999Wrld"
                                 ),
                                 InlineKeyboardButton(
-                                    text="Updates 📡", url="https://t.me/kitaxupdates"
+                                    text="Updates 📡", url="https://t.me/ItAchixoBot_Support"
                                 ),
                             ]
                         ],
