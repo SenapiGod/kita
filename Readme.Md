@@ -29,7 +29,7 @@
 </h2>
 
 <p align="center">
-<a href= "http://t.me/fed999wd"> <img src="https://img.shields.io/badge/Itachixobot-BOT-green?style=for-the-badge&logo=telegram" alt=@itachixobot on Telegram" /> </a>
+<a href= "http://t.me/itachixobot"> <img src="https://img.shields.io/badge/Itachixobot-BOT-green?style=for-the-badge&logo=telegram" alt=@itachixobot on Telegram" /> </a>
 <a href= "https://t.me/itachixobot_support"> <img src="https://img.shields.io/badge/Support-Chat-green?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/fed999wrld"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
