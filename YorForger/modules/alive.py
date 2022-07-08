@@ -6,11 +6,11 @@ from telegram.ext import (
     CommandHandler,
 )
 
-PHOTO = "https://telegra.ph/file/fa2c031ecf5df678280e5.jpg"
+PHOTO = "https://telegra.ph/file/50fa58933b46c16b3df61.mp4 "
 
 def alive(update: Update, context: CallbackContext):
-    TEXT = f"I Am 𝐊𝐢𝐭𝐚 𝐒𝐡𝐢𝐧𝐬𝐮𝐤𝐞!\n\nI Work Under - **[【V๏ɪ፝֟𝔡】 ✧Network✧](https://t.me/voidxnetwork)** \n\n◈ I will love to be in your group chat ◈"
-    
+    TEXT = f"I Am ITACHI UCHIHA !\n\nI Work Under - **[999 Gang 亗](https://t.me/fed999wrld)** \n\n⏺I'm working properly "
+
 
     update.effective_message.reply_photo(
         PHOTO, caption= TEXT,
@@ -19,10 +19,10 @@ def alive(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
             [
                 [
-                InlineKeyboardButton(text="【Support】", url="https://t.me/kitaxsupport"),
-                InlineKeyboardButton(text="【Updates】", url="https://t.me/kitaxupdates")
+                InlineKeyboardButton(text="【Support】", url="https://t.me/fed999wrld"),
+                InlineKeyboardButton(text="【Updates】", url="https://t.me/itachixobot_support")
                 ],
-                [InlineKeyboardButton(text="【V๏ɪ፝֟𝔡】Network", url="https://t.me/voidxnetwork")]
+                [InlineKeyboardButton(text="【999 Gang 亗】", url="https://t.me/fed999wrld")]
             ]
         ),
     )
