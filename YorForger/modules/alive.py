@@ -6,10 +6,10 @@ from telegram.ext import (
     CommandHandler,
 )
 
-PHOTO = "https://telegra.ph/file/50fa58933b46c16b3df61.mp4 "
+PHOTO = "https://telegra.ph/file/976a903c3c286536ec646.jpg"
 
 def alive(update: Update, context: CallbackContext):
-    TEXT = f"I Am ITACHI UCHIHA !\n\nI Work Under - **[999 Gang 亗](https://t.me/fed999wrld)** \n\n⏺I'm working properly "
+    TEXT = f"ʜɪ, ɪ'ᴍ ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ!\n\nɪ ᴡᴏʀᴋ ᴜɴᴅᴇʀ- **[999 Gang 亗](https://t.me/fed999wrld)** \n\nɪ'ᴍ ᴡᴏʀᴋɪɴɢ ᴘʀᴏᴘᴇʀʟʏ"
 
 
     update.effective_message.reply_photo(
