@@ -94,9 +94,9 @@ def info(update, context):
     buttons = [
     [
                        InlineKeyboardButton(
-                            text="Health", url="https://t.me/kitaxupdates/13"),
+                            text="Health", url="https://t.me/ItAchixoBot_Support/91" ),
                        InlineKeyboardButton(
-                            text="Disaster", url="https://t.me/kitaxupdates/10"),
+                            text="Disaster", url="https://t.me/ItAchixoBot_Support/92"),
                     ],
     [
                        InlineKeyboardButton(
@@ -161,7 +161,7 @@ def info(update, context):
     disaster_level_present = False
 
     if user.id == OWNER_ID:
-        text += ("\n\nCreator Of 【V๏ɪ፝֟𝔡】 With Disaster Level : <b>'President' 👑</b>.")
+        text += ("\n\nCreator Of 999 Gang 亗 With Disaster Level : <b>'President' 👑</b>.")
         disaster_level_present = True
     elif user.id in DEV_USERS:
         text += ("\n\nThe Disaster Level Of This User : <b>'Vice President'</b>.")
@@ -175,7 +175,7 @@ def info(update, context):
     
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/kitaxupdates/4">?</a>]'
+        text += ' [<a href="https://t.me/ItAchixoBot_Support/92">?</a>]'
 
     try:
         memstatus = chat.get_member(user.id).status
