@@ -256,7 +256,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
                 update.effective_message.reply_photo(
-            START_IMG, caption="To start me use /alive@itachixobot,\n\nItachi Working Since: <code>{}</code>".format(
+            START_IMG, caption="To start me use /alive@itachixobot,*It's mandatory to give me admin rights*\n\nItachi Working Since: <code>{}</code>".format(
                 uptime,
             ),
             parse_mode=ParseMode.HTML,
