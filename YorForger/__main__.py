@@ -92,7 +92,7 @@ START_IMG = "https://telegra.ph/file/ee230533b86985b3b954f.jpg"
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/81bf1a730f1f11593a281.mp4) 」────
 Konichiwa `{}`.
-*An Anime Based Bot Working Under* [999 Gang 亗](https://t.me/Fed999Wrld)
+*An Anime Based Bot Working Under* [999 Gang 亗](https://t.me/Ft999_eXe)
 ┏━━━━━━━━━━━━━━━━━━━━
 × *Working since:* `{}`
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -113,7 +113,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="×Support×", url=f"https://t.me/ItAchixoBot_Support"),                    
+            text="×Support×", url=f"https://t.me/Ft999_eXe"),                    
         InlineKeyboardButton(
             text="×Updates×",  url=f"https://t.me/ItAchixoBot_Support"
         ),
@@ -256,7 +256,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
                 update.effective_message.reply_photo(
-            START_IMG, caption="To start me use /alive@itachixobot,\n\n**It's mandatory to give me admin rights**\n\nItachi Working Since: <code>{}</code>".format(
+            START_IMG, caption="To start me use /alive@itachixobot,\n\nIt's mandatory to give me admin rights\n\nItachi Working Since: <code>{}</code>".format(
                 uptime,
             ),
             parse_mode=ParseMode.HTML,
@@ -264,7 +264,7 @@ def start(update: Update, context: CallbackContext):
              reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ❤", url="https://t.me/Fed999Wrld" ),
+                  InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ❤", url="https://t.me/Ft999_eXe" ),
                   InlineKeyboardButton(text="🔰Uᴘᴅᴀᴛᴇs🔰", url="https://t.me/ItAchixoBot_Support")
                   ]
                 ]
@@ -656,7 +656,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.send_photo(
-                "@https://t.me/Fed999Wrld",
+                "@https://t.me/Ft999_eXe",
                 "https://telegra.ph/file/7d797f1f006d5e30b7caf.mp4",
                 "I Am Ready To Compete!",
                 parse_mode=ParseMode.MARKDOWN,
